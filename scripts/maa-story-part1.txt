@@ -1,0 +1,13 @@
+VOICE: ur-PK-AsadNeural
+MUSIC: soft sad emotional
+
+IMAGE: small old village house early morning, mother near clay stove, little boy hungry
+Ali: Ammi ghar mein kuch khane ko hai?
+
+---
+IMAGE: old mother opening basket with only one roti, smiling at son
+Maa: Beta, aaj mere liye Allah kaafi hai, tum ye kha lo.
+
+---
+IMAGE: boy crying mother putting hand on his head emotional
+Maa: Maa apne bachay ko bhooka kaise dekh sakti hai beta?
