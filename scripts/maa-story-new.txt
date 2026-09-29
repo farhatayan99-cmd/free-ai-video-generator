@@ -1,0 +1,81 @@
+VOICE: ur-PK-AsadNeural
+MUSIC: soft sad emotional piano
+
+IMAGE: small old village house early morning, mother near clay stove, little boy hungry sitting on floor, cinematic emotional lighting
+Ali: Ammi ghar mein kuch khane ko hai?
+
+---
+IMAGE: old mother opening an old basket with only one roti inside, smiling at son with love, poor kitchen
+Maa: Beta, aaj mere liye Allah kaafi hai, tum ye kha lo.
+
+---
+IMAGE: mother giving roti to son, son worried face looking at mother
+Ali: Lekin Ammi, aap kya khaengi?
+Maa: Mera pait bhar gaya hai beta.
+
+---
+IMAGE: little boy eating roti, mother watching with fake smile but hungry face
+Ali: Ammi aap sach keh rahi hain na?
+Maa: Haan beta, bilkul.
+
+---
+IMAGE: mother drinking water glass in corner to hide hunger, boy secretly watching
+Ali: Ammi aap ne mere liye jhoot bola.
+
+---
+IMAGE: boy with tears in eyes, mother putting hand on his head with love, emotional closeup
+Maa: Maa apne bachay ko bhooka kaise dekh sakti hai, beta?
+
+---
+IMAGE: next morning boy wearing old torn clothes leaving house for work, mother blessing at door
+Ali: Ammi, aaj main kaam karke paisay launga.
+Maa: Bas beta, apna khayal rakhna.
+
+---
+IMAGE: boy working at construction site in hot sun sweating hard labor
+Ali: Mujhe thakna nahi, Ammi ke liye khana lena hai.
+
+---
+IMAGE: evening boy buying food packet with small earnings, happy face
+Ali: Aaj Ammi mere saath pait bhar kar khayengi!
+
+---
+IMAGE: boy returning home, door half open, strange silence, worried
+Ali: Ammi? Main aa gaya!
+
+---
+IMAGE: boy seeing mother lying weak on bed, food falling from hands, shock
+Ali: Ammi! Aapko kya hua?
+
+---
+IMAGE: mother opening eyes weakly smiling at son
+Maa: Mera beta mere liye khana laya hai?
+Ali: Haan Ammi sab aapke liye hai.
+
+---
+IMAGE: boy trying to feed mother, mother holding his hand
+Maa: Beta ab mujhe kisi cheez ki fikar nahi.
+
+---
+IMAGE: boy sitting beside mother crying
+Ali: Ammi, aapne hamesha mera pait bhara, ab meri baari thi.
+
+---
+IMAGE: mother placing hand on son head blessing him
+Maa: Tumhari mehnat hi meri sabse badi khushi hai, beta.
+
+---
+IMAGE: mother eyes slowly closing, boy holding her hand tightly crying
+Ali: Ammi aankhein khol dein, main aapko kahin nahi jaane dunga.
+
+---
+IMAGE: boy hugging mother hand to chest crying loudly
+Ali: Ammi ek baar mujhe bula dein please.
+
+---
+IMAGE: morning boy sitting in front of mother photo with tears in eyes
+Ali: Ammi, aapne mujhe bhooka nahi sone diya, main aapki mohabbat kabhi nahi bhoolunga.
+
+---
+IMAGE: boy hugging mother photo to chest, camera slowly zoom out, tribute
+Duniya mein maa se badh kar koi daulat nahi, jab maa paas ho uski qadar karo.
