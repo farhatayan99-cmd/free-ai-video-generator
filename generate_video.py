@@ -100,9 +100,12 @@ def fetch_image(prompt: str, out_path: Path, width=CANVAS_W, height=CANVAS_H, re
     seed = random.randint(1, 999_999)
     styled_prompt = f"{prompt}{ANIME_STYLE_SUFFIX}"
     url = (f"{POLLINATIONS_BASE}/{quote(styled_prompt)}?width={width}&height={height}"
-           f"&seed={seed}&nologo=true&model=flux-anime")
+           &model=flux
+        url = (f"{POLLINATIONS_BASE}/{quote(styled_prompt)}?width={width}&height={height}"
+           f"&seed={seed}&model=flux")
     fallback_url = (f"{POLLINATIONS_BASE}/{quote(styled_prompt)}?width={width}&height={height}"
-                     f"&seed={seed}&nologo=true")
+                    f"&seed={seed}&model=flux")
+               
     last_err = None
     for attempt in range(1, retries + 1):
         try:
